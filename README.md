@@ -16,3 +16,5 @@
 [https://leetcode-cn.com/problems/binary-tree-cameras/](https://leetcode-cn.com/problems/binary-tree-cameras/)
 合并二叉树
 [https://leetcode-cn.com/problems/merge-two-binary-trees/](https://leetcode-cn.com/problems/merge-two-binary-trees/)
+二叉搜索树中的众数
+[https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/)
