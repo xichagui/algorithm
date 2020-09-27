@@ -22,3 +22,5 @@
 [https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)
 路径总和 II
 [https://leetcode-cn.com/problems/path-sum-ii/](https://leetcode-cn.com/problems/path-sum-ii/)
+二叉搜索树的最近公共祖先
+[https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
