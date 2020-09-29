@@ -28,3 +28,5 @@
 [https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/)
 二叉树的后序遍历
 [https://leetcode-cn.com/problems/binary-tree-postorder-traversal/](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/)
+二叉搜索树中的插入操作
+[https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
