@@ -32,3 +32,5 @@
 [https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree/)
 秋叶收藏集
 [https://leetcode-cn.com/problems/UlBDOe/](https://leetcode-cn.com/problems/UlBDOe/)
+宝石与石头
+[https://leetcode-cn.com/problems/jewels-and-stones/](https://leetcode-cn.com/problems/jewels-and-stones/)
