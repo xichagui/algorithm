@@ -34,3 +34,5 @@
 [https://leetcode-cn.com/problems/UlBDOe/](https://leetcode-cn.com/problems/UlBDOe/)
 宝石与石头
 [https://leetcode-cn.com/problems/jewels-and-stones/](https://leetcode-cn.com/problems/jewels-and-stones/)
+四数之和
+[https://leetcode-cn.com/problems/4sum/](https://leetcode-cn.com/problems/4sum/)
