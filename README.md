@@ -36,3 +36,5 @@
 [https://leetcode-cn.com/problems/jewels-and-stones/](https://leetcode-cn.com/problems/jewels-and-stones/)
 四数之和
 [https://leetcode-cn.com/problems/4sum/](https://leetcode-cn.com/problems/4sum/)
+树中距离之和
+[https://leetcode-cn.com/problems/sum-of-distances-in-tree/](https://leetcode-cn.com/problems/sum-of-distances-in-tree/)
