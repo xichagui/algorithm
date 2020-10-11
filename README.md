@@ -48,3 +48,5 @@
 [https://leetcode-cn.com/problems/linked-list-cycle-ii/](https://leetcode-cn.com/problems/linked-list-cycle-ii/)
 分割等和子集
 [https://leetcode-cn.com/problems/partition-equal-subset-sum/](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
+二叉搜索树的最小绝对差
+[https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/)
