@@ -54,3 +54,5 @@
 [https://leetcode-cn.com/problems/swap-nodes-in-pairs/](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)
 查找常用字符
 [https://leetcode-cn.com/problems/find-common-characters/](https://leetcode-cn.com/problems/find-common-characters/)
+填充每个节点的下一个右侧节点指针
+[https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
