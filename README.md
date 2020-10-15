@@ -56,3 +56,5 @@
 [https://leetcode-cn.com/problems/find-common-characters/](https://leetcode-cn.com/problems/find-common-characters/)
 填充每个节点的下一个右侧节点指针
 [https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
+有序数组的平方
+[https://leetcode-cn.com/problems/squares-of-a-sorted-array/](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
