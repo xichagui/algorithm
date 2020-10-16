@@ -58,3 +58,5 @@
 [https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/)
 有序数组的平方
 [https://leetcode-cn.com/problems/squares-of-a-sorted-array/](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
+N皇后 II
+[https://leetcode-cn.com/problems/n-queens-ii/](https://leetcode-cn.com/problems/n-queens-ii/)
