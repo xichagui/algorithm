@@ -60,3 +60,5 @@
 [https://leetcode-cn.com/problems/squares-of-a-sorted-array/](https://leetcode-cn.com/problems/squares-of-a-sorted-array/)
 N皇后 II
 [https://leetcode-cn.com/problems/n-queens-ii/](https://leetcode-cn.com/problems/n-queens-ii/)
+删除链表的倒数第N个节点
+[https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
