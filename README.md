@@ -64,3 +64,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)
 比较含退格的字符串
 [https://leetcode-cn.com/problems/backspace-string-compare/](https://leetcode-cn.com/problems/backspace-string-compare/)
+重排链表
+[https://leetcode-cn.com/problems/reorder-list/](https://leetcode-cn.com/problems/reorder-list/)
