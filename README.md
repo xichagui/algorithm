@@ -70,3 +70,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/middle-of-the-linked-list/](https://leetcode-cn.com/problems/middle-of-the-linked-list/)
 一维数组的动态和
 [https://leetcode-cn.com/problems/running-sum-of-1d-array/](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
+跳跃游戏
+[https://leetcode-cn.com/problems/jump-game/](https://leetcode-cn.com/problems/jump-game/)
