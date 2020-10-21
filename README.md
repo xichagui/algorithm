@@ -72,3 +72,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/running-sum-of-1d-array/](https://leetcode-cn.com/problems/running-sum-of-1d-array/)
 跳跃游戏
 [https://leetcode-cn.com/problems/jump-game/](https://leetcode-cn.com/problems/jump-game/)
+长按键入
+[https://leetcode-cn.com/problems/long-pressed-name/](https://leetcode-cn.com/problems/long-pressed-name/)
