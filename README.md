@@ -76,3 +76,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/long-pressed-name/](https://leetcode-cn.com/problems/long-pressed-name/)
 二叉树的前序遍历
 [https://leetcode-cn.com/problems/binary-tree-preorder-traversal/](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)
+无重复字符的最长子串
+[https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
