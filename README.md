@@ -84,3 +84,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/partition-labels/](https://leetcode-cn.com/problems/partition-labels/)
 回文链表
 [https://leetcode-cn.com/problems/palindrome-linked-list/](https://leetcode-cn.com/problems/palindrome-linked-list/)
+三个数的最大乘积
+[https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/)
