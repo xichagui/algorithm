@@ -4,6 +4,7 @@
 #         self.val = x
 #         self.next = None
 
+# o(n)时间复杂度 o(1)空间复杂度
 class Solution:
     def isPalindrome(self, head: ListNode) -> bool:
         if not head:
