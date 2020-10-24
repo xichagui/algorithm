@@ -86,3 +86,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/palindrome-linked-list/](https://leetcode-cn.com/problems/palindrome-linked-list/)
 三个数的最大乘积
 [https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/)
+视频拼接
+[https://leetcode-cn.com/problems/video-stitching/](https://leetcode-cn.com/problems/video-stitching/)
