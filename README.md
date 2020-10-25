@@ -88,3 +88,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/submissions/)
 视频拼接
 [https://leetcode-cn.com/problems/video-stitching/](https://leetcode-cn.com/problems/video-stitching/)
+数组中的最长山脉
+[https://leetcode-cn.com/problems/longest-mountain-in-array/](https://leetcode-cn.com/problems/longest-mountain-in-array/)
