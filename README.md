@@ -90,3 +90,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/video-stitching/](https://leetcode-cn.com/problems/video-stitching/)
 数组中的最长山脉
 [https://leetcode-cn.com/problems/longest-mountain-in-array/](https://leetcode-cn.com/problems/longest-mountain-in-array/)
+有多少小于当前数字的数字
+[https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
