@@ -94,3 +94,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/](https://leetcode-cn.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
 二叉树的中序遍历
 [https://leetcode-cn.com/problems/binary-tree-inorder-traversal/](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)
+独一无二的出现次数
+[https://leetcode-cn.com/problems/unique-number-of-occurrences/](https://leetcode-cn.com/problems/unique-number-of-occurrences/)
