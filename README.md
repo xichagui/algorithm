@@ -98,3 +98,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/unique-number-of-occurrences/](https://leetcode-cn.com/problems/unique-number-of-occurrences/)
 求根到叶子节点数字之和
 [https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/)
+二叉树的最近公共祖先
+[https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
