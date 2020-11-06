@@ -112,3 +112,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/insert-interval/](https://leetcode-cn.com/problems/insert-interval/)
 单词接龙
 [https://leetcode-cn.com/problems/word-ladder/](https://leetcode-cn.com/problems/word-ladder/)
+根据数字二进制下 1 的数目排序
+[https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)
