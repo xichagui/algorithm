@@ -116,3 +116,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/](https://leetcode-cn.com/problems/sort-integers-by-the-number-of-1-bits/)
 寻找最近的回文数
 [https://leetcode-cn.com/problems/find-the-closest-palindrome/](https://leetcode-cn.com/problems/find-the-closest-palindrome/)
+区间和的个数
+[https://leetcode-cn.com/problems/count-of-range-sum/](https://leetcode-cn.com/problems/count-of-range-sum/)
