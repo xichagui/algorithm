@@ -120,3 +120,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/count-of-range-sum/](https://leetcode-cn.com/problems/count-of-range-sum/)
 买卖股票的最佳时机 II
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
+最接近原点的 K 个点
+[https://leetcode-cn.com/problems/k-closest-points-to-origin/](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
