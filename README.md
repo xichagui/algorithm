@@ -122,3 +122,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii/)
 最接近原点的 K 个点
 [https://leetcode-cn.com/problems/k-closest-points-to-origin/](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
+下一个排列
+[https://leetcode-cn.com/problems/next-permutation/](https://leetcode-cn.com/problems/next-permutation/)
