@@ -124,3 +124,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/k-closest-points-to-origin/](https://leetcode-cn.com/problems/k-closest-points-to-origin/)
 下一个排列
 [https://leetcode-cn.com/problems/next-permutation/](https://leetcode-cn.com/problems/next-permutation/)
+自由之路
+[https://leetcode-cn.com/problems/freedom-trail/](https://leetcode-cn.com/problems/freedom-trail/)
