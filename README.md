@@ -132,3 +132,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/odd-even-linked-list/](https://leetcode-cn.com/problems/odd-even-linked-list/)
 数组的相对排序
 [https://leetcode-cn.com/problems/relative-sort-array/](https://leetcode-cn.com/problems/relative-sort-array/)
+移掉K位数字
+[https://leetcode-cn.com/problems/remove-k-digits/](https://leetcode-cn.com/problems/remove-k-digits/)
