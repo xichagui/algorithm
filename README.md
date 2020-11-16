@@ -134,3 +134,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/relative-sort-array/](https://leetcode-cn.com/problems/relative-sort-array/)
 移掉K位数字
 [https://leetcode-cn.com/problems/remove-k-digits/](https://leetcode-cn.com/problems/remove-k-digits/)
+根据身高重建队列
+[https://leetcode-cn.com/problems/queue-reconstruction-by-height/](https://leetcode-cn.com/problems/queue-reconstruction-by-height/)
