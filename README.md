@@ -150,3 +150,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/valid-anagram/](https://leetcode-cn.com/problems/valid-anagram/)
 用最少数量的箭引爆气球
 [https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/)
+完全二叉树的节点个数
+[https://leetcode-cn.com/problems/count-complete-tree-nodes/](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
