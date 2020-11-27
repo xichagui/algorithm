@@ -154,3 +154,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/count-complete-tree-nodes/](https://leetcode-cn.com/problems/count-complete-tree-nodes/)
 上升下降字符串
 [https://leetcode-cn.com/problems/increasing-decreasing-string/](https://leetcode-cn.com/problems/increasing-decreasing-string/)
+最大间距
+[https://leetcode-cn.com/problems/maximum-gap/](https://leetcode-cn.com/problems/maximum-gap/)
