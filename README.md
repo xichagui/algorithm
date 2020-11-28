@@ -158,3 +158,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/maximum-gap/](https://leetcode-cn.com/problems/maximum-gap/)
 四数相加 II
 [https://leetcode-cn.com/problems/4sum-ii/](https://leetcode-cn.com/problems/4sum-ii/)
+翻转对
+[https://leetcode-cn.com/problems/reverse-pairs/](https://leetcode-cn.com/problems/reverse-pairs/)
