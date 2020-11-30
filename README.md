@@ -162,3 +162,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/reverse-pairs/](https://leetcode-cn.com/problems/reverse-pairs/)
 三角形的最大周长
 [https://leetcode-cn.com/problems/largest-perimeter-triangle/](https://leetcode-cn.com/problems/largest-perimeter-triangle/)
+重构字符串
+[https://leetcode-cn.com/problems/reorganize-string/](https://leetcode-cn.com/problems/reorganize-string/)
