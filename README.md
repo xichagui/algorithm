@@ -166,3 +166,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/reorganize-string/](https://leetcode-cn.com/problems/reorganize-string/)
 在排序数组中查找元素的第一个和最后一个位置
 [https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
+计数质数
+[https://leetcode-cn.com/problems/count-primes/](https://leetcode-cn.com/problems/count-primes/)
