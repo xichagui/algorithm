@@ -168,3 +168,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 计数质数
 [https://leetcode-cn.com/problems/count-primes/](https://leetcode-cn.com/problems/count-primes/)
+分割数组为连续子序列
+[https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
