@@ -170,3 +170,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/count-primes/](https://leetcode-cn.com/problems/count-primes/)
 分割数组为连续子序列
 [https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
+任务调度器
+[https://leetcode-cn.com/problems/task-scheduler/](https://leetcode-cn.com/problems/task-scheduler/)
