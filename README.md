@@ -174,3 +174,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/task-scheduler/](https://leetcode-cn.com/problems/task-scheduler/)
 杨辉三角
 [https://leetcode-cn.com/problems/pascals-triangle/](https://leetcode-cn.com/problems/pascals-triangle/)
+翻转矩阵后的得分
+[https://leetcode-cn.com/problems/score-after-flipping-matrix/](https://leetcode-cn.com/problems/score-after-flipping-matrix/)
