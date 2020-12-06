@@ -172,3 +172,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/)
 任务调度器
 [https://leetcode-cn.com/problems/task-scheduler/](https://leetcode-cn.com/problems/task-scheduler/)
+杨辉三角
+[https://leetcode-cn.com/problems/pascals-triangle/](https://leetcode-cn.com/problems/pascals-triangle/)
