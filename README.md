@@ -176,3 +176,5 @@ N皇后 II
 [https://leetcode-cn.com/problems/pascals-triangle/](https://leetcode-cn.com/problems/pascals-triangle/)
 翻转矩阵后的得分
 [https://leetcode-cn.com/problems/score-after-flipping-matrix/](https://leetcode-cn.com/problems/score-after-flipping-matrix/)
+将数组拆分成斐波那契序列
+[https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/)
