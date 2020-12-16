@@ -188,3 +188,5 @@ Dota2 参议院
 [https://leetcode-cn.com/problems/wiggle-subsequence/](https://leetcode-cn.com/problems/wiggle-subsequence/)
 字母异位词分组
 [https://leetcode-cn.com/problems/group-anagrams/](https://leetcode-cn.com/problems/group-anagrams/)
+单词规律
+[https://leetcode-cn.com/problems/word-pattern/](https://leetcode-cn.com/problems/word-pattern/)
