@@ -194,3 +194,5 @@ Dota2 参议院
 [https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 去除重复字母
 [https://leetcode-cn.com/problems/remove-duplicate-letters/](https://leetcode-cn.com/problems/remove-duplicate-letters/)
+使用最小花费爬楼梯
+[https://leetcode-cn.com/problems/min-cost-climbing-stairs/](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
