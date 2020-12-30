@@ -198,3 +198,5 @@ Dota2 参议院
 [https://leetcode-cn.com/problems/min-cost-climbing-stairs/](https://leetcode-cn.com/problems/min-cost-climbing-stairs/)
 二叉树的锯齿形层序遍历
 [https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
+最后一块石头的重量
+[https://leetcode-cn.com/problems/last-stone-weight/](https://leetcode-cn.com/problems/last-stone-weight/)
