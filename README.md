@@ -210,3 +210,5 @@ Dota2 参议院
 [https://leetcode-cn.com/problems/positions-of-large-groups/](https://leetcode-cn.com/problems/positions-of-large-groups/)
 旋转数组
 [https://leetcode-cn.com/problems/rotate-array/](https://leetcode-cn.com/problems/rotate-array/)
+可被 5 整除的二进制前缀
+[https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/)
